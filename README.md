@@ -1,6 +1,6 @@
 # Blockchain-with-golang
 
-This is a project in which a simple version fo blockchain had been implemented using Golang. For simplicity the entire code has been written in Golang only without the use of any other tech stacks.
+This is a project in which a simple version of blockchain has been implemented using Golang. For simplicity the entire code has been written in Golang only without the use of any other tech stacks.
 
 You can implement this in your local by simply cloning the repository and using the command in the terminal:
 
